@@ -1,0 +1,32 @@
+{
+    "categories": [
+        {
+            "name": "Sports premium",
+            "url": "https://ferisu-template.github.io/version-info/Sports.m3u8"
+        },
+        {
+            "name": "Sports",
+            "url": "https://iptv-org.github.io/iptv/categories/sports.m3u"
+        },
+        {
+            "name": "Lokal",
+            "url": "https://iptv-org.github.io/iptv/countries/id.m3u"
+        },
+        {
+            "name": "Music",
+            "url": "https://iptv-org.github.io/iptv/categories/music.m3u"
+        },
+        {
+            "name": "Anime",
+            "url": "https://iptv-org.github.io/iptv/categories/animation.m3u"
+        },
+        {
+            "name": "Movie",
+            "url": "https://iptv-org.github.io/iptv/categories/movies.m3u"
+        },
+        {
+            "name": "Disney+",
+            "url": "https://ferisu-template.github.io/version-info/DISNEY+.m3u"
+        }
+    ]
+}
