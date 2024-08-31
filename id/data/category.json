@@ -2,7 +2,7 @@
     "categories": [
         {
             "name": "Sports premium",
-            "url": "https://ferisu-template.github.io/version-info/Sports.m3u8"
+            "url": "https://raw.githubusercontent.com/ferisu-template/stream/main/id/data/Sportspremium"
         },
         {
             "name": "Sports",
