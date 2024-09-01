@@ -1,12 +1,12 @@
 {
     "categories": [
         {
-            "name": "Sports premium",
-            "url": "https://raw.githubusercontent.com/ferisu-template/stream/main/id/data/Sportspremium%20.m3u"
+            "name": "Bein AR ",
+            "url": "https://raw.githubusercontent.com/ferisu-template/stream/main/id/data/beinsport.m3u"
         },
         {
-            "name": "Sports",
-            "url": "https://iptv-org.github.io/iptv/categories/sports.m3u"
+            "name": "FR Sports",
+            "url": "https://raw.githubusercontent.com/ferisu-template/stream/main/id/data/fr-sports.m3u"
         },
         {
             "name": "Lokal",
