@@ -6,33 +6,14 @@ http://252091451939350623.ofse0829.xyz:80/live/te725042/sn6@W8Ws7vyw/350623.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 PREMIUM HD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein1.png" group-title="Bein Sports",AR: BEIN SPORTS 1 PREMIUM HD
 http://252091451939333780.ofse0829.xyz:80/live/te725042/sn6@W8Ws7vyw/333780.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2 PREMIUM SD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein2.png" group-title="Bein Sports",AR: BEIN SPORTS 2 PREMIUM SD
+http://252091451939355981.ofse0829.xyz:80/live/te725042/sn6@W8Ws7vyw/355981.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2 PREMIUM HD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein2.png" group-title="Bein Sports",AR: BEIN SPORTS 2 PREMIUM HD
 http://252091451939333786.ofse0829.xyz:80/live/te725042/sn6@W8Ws7vyw/333786.m3u8
 
-#EXTINF:-1 tvg-id="BeinSportsPremium1.qa" tvg-name="BEIN SPORTS 1 SD" tvg-logo="https://raw.githubusercontent.com/ferisu-template/stream/main/id/image/beinsport1.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 1 SD
-http://252091451939333781.ofse0829.xyz:80/live/te725042/sn6@W8Ws7vyw/333781.m3u8
-
-#EXTINF:-1 tvg-id="BeinSportsPremium1.qa" tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://raw.githubusercontent.com/ferisu-template/stream/main/id/image/beinsport1.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 1 HD
-http://252091451939333780.ofse0829.xyz:80/live/te725042/sn6@W8Ws7vyw/333780.m3u8
-
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" BEIN SPORTS 1 FHD" tvg-logo="https://raw.githubusercontent.com/ferisu-template/stream/main/id/image/beinsport1.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 1 FHD
-http://252091451939344869.ofse0829.xyz:80/live/te725042/sn6@W8Ws7vyw/344869.m3u8
-
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS  2 SD" tvg-logo="https://raw.githubusercontent.com/ferisu-template/stream/main/id/image/beinsport2.png" group-title="BEIN SPORTS MENA", BEIN SPORTS  2 SD
-http://252091451939333781.ofse0829.xyz:80/live/te725042/sn6@W8Ws7vyw/333781.m3u8
-
-#EXTINF:-1 tvg-id="BeinSportsPremium2.qa" tvg-name="BEIN SPORTS 2 HD" tvg-logo="https://raw.githubusercontent.com/ferisu-template/stream/main/id/image/beinsport2.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 2 HD
-http://252091451939333787.ofse0829.xyz:80/live/te725042/sn6@W8Ws7vyw/333787.m3u8
-
-
-
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 2 FHD HEVC" tvg-logo="https://raw.githubusercontent.com/ferisu-template/stream/main/id/image/beinsport2.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 2 FHD HEVC
-http://252091451939333785.ofse0829.xyz:80/live/te725042/sn6@W8Ws7vyw/333785.m3u8
-
-
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 1 ENG HD" tvg-logo="https://raw.githubusercontent.com/ferisu-template/stream/main/id/image/beinsport2.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 2 ENG HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENGLISH 1 HD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein11-4k.png" group-title="Bein Sports",AR: BEIN SPORTS ENGLISH 1 HD
 http://252091451939333809.ofse0829.xyz:80/live/te725042/sn6@W8Ws7vyw/333809.m3u8
 
-
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 1 ENG SD" tvg-logo="https://raw.githubusercontent.com/ferisu-template/stream/main/id/image/beinsport1.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 2 ENG SD
-http://252091451939343323.ofse0829.xyz:80/live/te725042/sn6@W8Ws7vyw/343323.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENGLISH 2 SD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein12-4k.png" group-title="Bein Sports",AR: BEIN SPORTS ENGLISH 2 SD
+http://252091451939366371.ofse0829.xyz:80/live/te725042/sn6@W8Ws7vyw/366371.m3u8
