@@ -1,0 +1,306 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="|FR| CANAL+ SPORT" tvg-logo="http://one-iptv.com/imageslogo/CanalPlusSport.fr.png" group-title="FRANCE SPORT", |FR| CANAL+ SPORT
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/39203.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="|FR| CANAL+ SPORT HD" tvg-logo="http://one-iptv.com/imageslogo/CanalPlusSport.fr.png" group-title="FRANCE SPORT", |FR| CANAL+ SPORT HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/15191.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ SPORT FHD" tvg-logo="http://one-iptv.com/imageslogo/CanalPlusSport.fr.png" group-title="FRANCE SPORT", |FR| CANAL+ SPORT FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/51166.m3u8
+#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="|FR| CANAL+ FOOT" tvg-logo="https://assets-fr.imgfoot.com/canal-plus-foot.png" group-title="FRANCE SPORT", |FR| CANAL+ FOOT
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/136367.m3u8
+#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="|FR.RP| CANAL+ FOOT HD" tvg-logo="https://assets-fr.imgfoot.com/canal-plus-foot.png" group-title="FRANCE SPORT", |FR.RP| CANAL+ FOOT HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/136368.m3u8
+#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="|FR| CANAL+ FOOT FHD" tvg-logo="https://assets-fr.imgfoot.com/canal-plus-foot.png" group-title="FRANCE SPORT", |FR| CANAL+ FOOT FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/136369.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="|FR| CANAL+ SPORT 360" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/800px-Canal%2B_Sport_%282013%29.svg.png" group-title="FRANCE SPORT", |FR| CANAL+ SPORT 360
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/136372.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="|FR.RP| CANAL+ SPORT 360 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/11/C%2B_Sport_360.png" group-title="FRANCE SPORT", |FR.RP| CANAL+ SPORT 360 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/136371.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="|FR| CANAL+ SPORT 360 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/800px-Canal%2B_Sport_%282013%29.svg.png" group-title="FRANCE SPORT", |FR| CANAL+ SPORT 360 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/136370.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="FRANCE SPORT", |FR| DAZN 1 SD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/303273.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="FRANCE SPORT", |FR| DAZN 1 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/277603.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN PPV FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="FRANCE SPORT", |FR| DAZN PPV FULL HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/277604.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN LIGUE 1 LIVE 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="FRANCE SPORT", |FR| DAZN LIGUE 1 LIVE 1 SD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/108558.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN LIGUE 1 LIVE 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="FRANCE SPORT", |FR| DAZN LIGUE 1 LIVE 1 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/108559.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN LIGUE 1 LIVE 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="FRANCE SPORT", |FR| DAZN LIGUE 1 LIVE 1 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/108560.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN LIGUE 1 LIVE 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="FRANCE SPORT", |FR| DAZN LIGUE 1 LIVE 2 SD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/124486.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN LIGUE 1 LIVE 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="FRANCE SPORT", |FR| DAZN LIGUE 1 LIVE 2 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/124485.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN LIGUE 1 LIVE 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="FRANCE SPORT", |FR| DAZN LIGUE 1 LIVE 2 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/124484.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN LIGUE 1 LIVE 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="FRANCE SPORT", |FR| DAZN LIGUE 1 LIVE 3 SD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/124489.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN LIGUE 1 LIVE 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="FRANCE SPORT", |FR| DAZN LIGUE 1 LIVE 3 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/124488.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN LIGUE 1 LIVE 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="FRANCE SPORT", |FR| DAZN LIGUE 1 LIVE 3 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/124487.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN LIGUE 1 LIVE 4 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="FRANCE SPORT", |FR| DAZN LIGUE 1 LIVE 4 SD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/124492.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN LIGUE 1 LIVE 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="FRANCE SPORT", |FR| DAZN LIGUE 1 LIVE 4 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/124491.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN LIGUE 1 LIVE 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="FRANCE SPORT", |FR| DAZN LIGUE 1 LIVE 4 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/124490.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN LIGUE 1 LIVE 5 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="FRANCE SPORT", |FR| DAZN LIGUE 1 LIVE 5 SD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/124495.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN LIGUE 1 LIVE 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="FRANCE SPORT", |FR| DAZN LIGUE 1 LIVE 5 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/124494.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN LIGUE 1 LIVE 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="FRANCE SPORT", |FR| DAZN LIGUE 1 LIVE 5 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/124493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN LIGUE 1 LIVE 6 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="FRANCE SPORT", |FR| DAZN LIGUE 1 LIVE 6 SD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/124520.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN LIGUE 1 LIVE 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="FRANCE SPORT", |FR| DAZN LIGUE 1 LIVE 6 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/124523.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN LIGUE 1 LIVE 6 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="FRANCE SPORT", |FR| DAZN LIGUE 1 LIVE 6 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/124524.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN LIGUE 1 LIVE 7 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="FRANCE SPORT", |FR| DAZN LIGUE 1 LIVE 7 SD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/124521.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN LIGUE 1 LIVE 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="FRANCE SPORT", |FR| DAZN LIGUE 1 LIVE 7 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/124525.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN LIGUE 1 LIVE 7 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="FRANCE SPORT", |FR| DAZN LIGUE 1 LIVE 7 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/124526.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN LIGUE 1 LIVE 8 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="FRANCE SPORT", |FR| DAZN LIGUE 1 LIVE 8 SD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/124522.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN LIGUE 1 LIVE 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="FRANCE SPORT", |FR| DAZN LIGUE 1 LIVE 8 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/124527.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN LIGUE 1 LIVE 8 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="FRANCE SPORT", |FR| DAZN LIGUE 1 LIVE 8 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/124559.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN LIGUE 1 LIVE 9 HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="FRANCE SPORT", |FR| DAZN LIGUE 1 LIVE 9 HD 
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/124560.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN LIGUE 1 LiVE 9 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="FRANCE SPORT", |FR| DAZN LIGUE 1 LiVE 9 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/124561.m3u8
+#EXTINF:-1 tvg-id="CanalPlusPremierLeague.fr" tvg-name="|FR| CANAL+ PREMIER LEAGUE HD" tvg-logo="https://pbs.twimg.com/media/EMOdAg8WwAAa8xS.png" group-title="FRANCE SPORT", |FR| CANAL+ PREMIER LEAGUE HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/125118.m3u8
+#EXTINF:-1 tvg-id="CanalPlusPremierLeague.fr" tvg-name="|FR| CANAL+ PREMIER LEAGUE FHD" tvg-logo="https://pbs.twimg.com/media/EMOdAg8WwAAa8xS.png" group-title="FRANCE SPORT", |FR| CANAL+ PREMIER LEAGUE FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/115017.m3u8
+#EXTINF:-1 tvg-id="CanalPlusTop14.fr" tvg-name="|FR| CANAL+ TOP14 FHD" tvg-logo="https://www.universfreebox.com/UserFiles/image/canalplustop14.png" group-title="FRANCE SPORT", |FR| CANAL+ TOP14 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/108537.m3u8
+#EXTINF:-1 tvg-id="CanalPlusFormula1.fr" tvg-name="|FR.RP| CANAL+ FORMULA1 HD" tvg-logo="https://i.imgur.com/wVCBBYM.png" group-title="FRANCE SPORT", |FR.RP| CANAL+ FORMULA1 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/125119.m3u8
+#EXTINF:-1 tvg-id="CanalPlusFormula1.fr" tvg-name="|FR| CANAL+ FORMULA1 FHD" tvg-logo="https://i.imgur.com/wVCBBYM.png" group-title="FRANCE SPORT", |FR| CANAL+ FORMULA1 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/108538.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ MOTO GP FHD  " tvg-logo="http://one-iptv.com/imageslogo/AutoMotorundSportChannel.de.png" group-title="FRANCE SPORT", |FR| CANAL+ MOTO GP FHD  
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/15147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME MULTIPLEX SD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT", |FR| AMAZON PRIME MULTIPLEX SD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/126666.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME MULTIPLEX HD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT", |FR| AMAZON PRIME MULTIPLEX HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/126667.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME MULTIPLEX FHD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT", |FR| AMAZON PRIME MULTIPLEX FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/124796.m3u8
+#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="|FR| BEIN SPORT 1" tvg-logo="http://one-iptv.com/logoX/bein/bein1.png" group-title="FRANCE SPORT", |FR| BEIN SPORT 1
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/15204.m3u8
+#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="|FR.RP| BEIN SPORT 1 HD" tvg-logo="http://one-iptv.com/logoX/bein/bein1.png" group-title="FRANCE SPORT", |FR.RP| BEIN SPORT 1 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/9340.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORT 1 FHD" tvg-logo="http://one-iptv.com/logoX/bein/bein1.png" group-title="FRANCE SPORT", |FR| BEIN SPORT 1 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/51102.m3u8
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="|FR| BEIN SPORT 2" tvg-logo="http://one-iptv.com/logoX/bein/bein%202.png" group-title="FRANCE SPORT", |FR| BEIN SPORT 2
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/15203.m3u8
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="|FR.RP| BEIN SPORT 2 HD" tvg-logo="http://one-iptv.com/logoX/bein/bein%202.png" group-title="FRANCE SPORT", |FR.RP| BEIN SPORT 2 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/9339.m3u8
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="|FR| BEIN SPORT 2 FHD" tvg-logo="http://one-iptv.com/logoX/bein/bein%202.png" group-title="FRANCE SPORT", |FR| BEIN SPORT 2 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/9588.m3u8
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="|FR| BEIN SPORT 3" tvg-logo="http://one-iptv.com/logoX/bein/bein3.png" group-title="FRANCE SPORT", |FR| BEIN SPORT 3
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/15202.m3u8
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="|FR| BEIN SPORT 3 HD" tvg-logo="http://one-iptv.com/logoX/bein/bein3.png" group-title="FRANCE SPORT", |FR| BEIN SPORT 3 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/9341.m3u8
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="|FR| BEIN SPORT 3 FHD" tvg-logo="http://one-iptv.com/logoX/bein/bein3.png" group-title="FRANCE SPORT", |FR| BEIN SPORT 3 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/9587.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORT 3 FHD BKP" tvg-logo="http://one-iptv.com/logoX/bein/bein3.png" group-title="FRANCE SPORT", |FR| BEIN SPORT 3 FHD BKP
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/51100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT NEWS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2b0lk7aAc518TA5e6mUyywghUD2F93b2oBWCr7zvg5mvAd4Y-P2Y5jjg" group-title="FRANCE SPORT", |FR| RMC SPORT NEWS FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/40481.m3u8
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="|FR| RMC SPORT 1 SD" tvg-logo="http://one-iptv.com/imageslogo/RMCSport1.fr.png" group-title="FRANCE SPORT", |FR| RMC SPORT 1 SD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/15127.m3u8
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|FR.RP| RMC SPORT 1 HD" tvg-logo="http://one-iptv.com/imageslogo/RMCSport1.fr.png" group-title="FRANCE SPORT", |FR.RP| RMC SPORT 1 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/9218.m3u8
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="|FR| RMC SPORT 1 FHD" tvg-logo="http://one-iptv.com/imageslogo/RMCSport1.fr.png" group-title="FRANCE SPORT", |FR| RMC SPORT 1 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/9502.m3u8
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="|FR| RMC SPORT 2 SD" tvg-logo="http://one-iptv.com/imageslogo/RMCSport2.fr.png" group-title="FRANCE SPORT", |FR| RMC SPORT 2 SD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/15126.m3u8
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="|FR.RP| RMC SPORT 2 HD" tvg-logo="http://one-iptv.com/imageslogo/RMCSport2.fr.png" group-title="FRANCE SPORT", |FR.RP| RMC SPORT 2 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/9217.m3u8
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="|FR| RMC SPORT 2 FHD" tvg-logo="http://one-iptv.com/imageslogo/RMCSport2.fr.png" group-title="FRANCE SPORT", |FR| RMC SPORT 2 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/9501.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 3 SD" tvg-logo="http://one-iptv.com/imageslogo/RMCSport3.fr.png" group-title="FRANCE SPORT", |FR| RMC SPORT 3 SD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/50978.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 3 HD" tvg-logo="http://one-iptv.com/imageslogo/RMCSport3.fr.png" group-title="FRANCE SPORT", |FR| RMC SPORT 3 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/50979.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 3 FHD" tvg-logo="http://one-iptv.com/imageslogo/RMCSport3.fr.png" group-title="FRANCE SPORT", |FR| RMC SPORT 3 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/50980.m3u8
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|FR| RMC SPORT 4" tvg-logo="http://one-iptv.com/imageslogo/RMCSport4.fr.png" group-title="FRANCE SPORT", |FR| RMC SPORT 4
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/15124.m3u8
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|FR| RMC SPORT 4 HD" tvg-logo="http://one-iptv.com/imageslogo/RMCSport4.fr.png" group-title="FRANCE SPORT", |FR| RMC SPORT 4 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/9215.m3u8
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|FR| RMC SPORT 4 FHD" tvg-logo="http://one-iptv.com/imageslogo/RMCSport4.fr.png" group-title="FRANCE SPORT", |FR| RMC SPORT 4 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/9499.m3u8
+#EXTINF:-1 tvg-id="Multisports1.fr" tvg-name="|FR| MULTISPORTS 1 FHD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-multisports-1.png" group-title="FRANCE SPORT", |FR| MULTISPORTS 1 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/108540.m3u8
+#EXTINF:-1 tvg-id="Multisports2.fr" tvg-name="|FR| MULTISPORTS 2 FHD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-multisports-2-1.png" group-title="FRANCE SPORT", |FR| MULTISPORTS 2 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/108541.m3u8
+#EXTINF:-1 tvg-id="Multisports3.fr" tvg-name="|FR| MULTISPORTS 3 FHD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-multisports-3-1.png" group-title="FRANCE SPORT", |FR| MULTISPORTS 3 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/108542.m3u8
+#EXTINF:-1 tvg-id="Multisports4.fr" tvg-name="|FR| MULTISPORTS 4 FHD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-multisports-4.png" group-title="FRANCE SPORT", |FR| MULTISPORTS 4 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/108543.m3u8
+#EXTINF:-1 tvg-id="Multisports6.fr" tvg-name="|FR| MULTISPORTS 6 FHD" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/106.png" group-title="FRANCE SPORT", |FR| MULTISPORTS 6 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/108545.m3u8
+#EXTINF:-1 tvg-id="Multisports5.fr" tvg-name="|FR| MULTISPORTS 5 FHD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-multisports-5.png" group-title="FRANCE SPORT", |FR| MULTISPORTS 5 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/108544.m3u8
+#EXTINF:-1 tvg-id="Bein4Max.fr" tvg-name="|FR| BEIN SPORT MAX 4 HD" tvg-logo="http://one-iptv.com/imageslogo/Bein4Max.fr.png" group-title="FRANCE SPORT", |FR| BEIN SPORT MAX 4 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/15210.m3u8
+#EXTINF:-1 tvg-id="Bein5Max.fr" tvg-name="|FR| BEIN SPORT MAX 5 HD" tvg-logo="http://one-iptv.com/imageslogo/Bein5Max.fr.png" group-title="FRANCE SPORT", |FR| BEIN SPORT MAX 5 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/15209.m3u8
+#EXTINF:-1 tvg-id="Bein6Max.fr" tvg-name="|FR| BEIN SPORT MAX 6 HD" tvg-logo="http://one-iptv.com/imageslogo/Bein6Max.fr.png" group-title="FRANCE SPORT", |FR| BEIN SPORT MAX 6 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/15208.m3u8
+#EXTINF:-1 tvg-id="Bein7Max.fr" tvg-name="|FR| BEIN SPORT MAX 7 HD" tvg-logo="http://one-iptv.com/imageslogo/Bein7Max.fr.png" group-title="FRANCE SPORT", |FR| BEIN SPORT MAX 7 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/15207.m3u8
+#EXTINF:-1 tvg-id="Bein8Max.fr" tvg-name="|FR| BEIN SPORT MAX 8 HD" tvg-logo="http://one-iptv.com/imageslogo/Bein8Max.fr.png" group-title="FRANCE SPORT", |FR| BEIN SPORT MAX 8 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/15206.m3u8
+#EXTINF:-1 tvg-id="Bein9Max.fr" tvg-name="|FR| BEIN SPORT MAX 9 HD" tvg-logo="http://one-iptv.com/imageslogo/Bein9Max.fr.png" group-title="FRANCE SPORT", |FR| BEIN SPORT MAX 9 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/15205.m3u8
+#EXTINF:-1 tvg-id="Bein10Max.fr" tvg-name="|FR| BEIN SPORT MAX 10 hd" tvg-logo="http://one-iptv.com/logoX/bein/beinmax10.png" group-title="FRANCE SPORT", |FR| BEIN SPORT MAX 10 hd
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/15211.m3u8
+#EXTINF:-1 tvg-id="RMCSportLive5.fr" tvg-name="|FR| RMC SPORT LIVE 5 FHD" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive5.fr.png" group-title="FRANCE SPORT", |FR| RMC SPORT LIVE 5 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/40480.m3u8
+#EXTINF:-1 tvg-id="RMCSportLive6.fr" tvg-name="|FR| RMC SPORT LIVE 6 FHD" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive6.fr.png" group-title="FRANCE SPORT", |FR| RMC SPORT LIVE 6 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/40479.m3u8
+#EXTINF:-1 tvg-id="RMCSportLive7.fr" tvg-name="|FR| RMC SPORT LIVE 7 FHD" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive7.fr.png" group-title="FRANCE SPORT", |FR| RMC SPORT LIVE 7 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/40478.m3u8
+#EXTINF:-1 tvg-id="RMCSportLive8.fr" tvg-name="|FR| RMC SPORT LIVE 8 FHD" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive8.fr.png" group-title="FRANCE SPORT", |FR| RMC SPORT LIVE 8 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/40477.m3u8
+#EXTINF:-1 tvg-id="RMCSportLive9.fr" tvg-name="|FR| RMC SPORT LIVE 9 FHD" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive9.fr.png" group-title="FRANCE SPORT", |FR| RMC SPORT LIVE 9 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/40476.m3u8
+#EXTINF:-1 tvg-id="RMCSportLive10.fr" tvg-name="|FR| RMC SPORT LIVE 10 FHD" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive10.fr.png" group-title="FRANCE SPORT", |FR| RMC SPORT LIVE 10 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/40475.m3u8
+#EXTINF:-1 tvg-id="RMCSportLive11.fr" tvg-name="|FR| RMC SPORT LIVE 11 FHD" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive11.fr.png" group-title="FRANCE SPORT", |FR| RMC SPORT LIVE 11 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/40474.m3u8
+#EXTINF:-1 tvg-id="RMCSportLive12.fr" tvg-name="|FR| RMC SPORT LIVE 12 FHD" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive12.fr.png" group-title="FRANCE SPORT", |FR| RMC SPORT LIVE 12 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/40473.m3u8
+#EXTINF:-1 tvg-id="RMCSportLive13.fr" tvg-name="|FR| RMC SPORT LIVE 13 FHD" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive13.fr.png" group-title="FRANCE SPORT", |FR| RMC SPORT LIVE 13 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/40472.m3u8
+#EXTINF:-1 tvg-id="RMCSportLive14.fr" tvg-name="|FR| RMC SPORT LIVE 14 FHD" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive14.fr.png" group-title="FRANCE SPORT", |FR| RMC SPORT LIVE 14 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/40471.m3u8
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|FR| RMC SPORT LIVE 15 FHD" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive15.fr.png" group-title="FRANCE SPORT", |FR| RMC SPORT LIVE 15 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/40470.m3u8
+#EXTINF:-1 tvg-id="RMCSportAccess1.fr" tvg-name="|FR| RMC SPORT ACCESS 1" tvg-logo="http://one-iptv.com/imageslogo/RMCSportAccess1.fr.png" group-title="FRANCE SPORT", |FR| RMC SPORT ACCESS 1
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/40484.m3u8
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|FR| RMC SPORT ACCESS 2" tvg-logo="http://one-iptv.com/imageslogo/RMCSportAccess2.fr.png" group-title="FRANCE SPORT", |FR| RMC SPORT ACCESS 2
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/40483.m3u8
+#EXTINF:-1 tvg-id="Eurosport360.fr" tvg-name="|FR| EUROSPORT 360 FHD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/2/2f/Eurosport360Logo.png/revision/latest?cb=20160505032906" group-title="FRANCE SPORT", |FR| EUROSPORT 360 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/108539.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="|FR| EUROSPORT 1" tvg-logo="http://one-iptv.com/logoX/SfrSport/eurosport.png" group-title="FRANCE SPORT", |FR| EUROSPORT 1
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/15172.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="|FR.RP| EUROSPORT 1 HD" tvg-logo="http://one-iptv.com/logoX/SfrSport/eurosport.png" group-title="FRANCE SPORT", |FR.RP| EUROSPORT 1 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/9281.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="|FR| EUROSPORT 1 FHD" tvg-logo="http://one-iptv.com/logoX/SfrSport/eurosport.png" group-title="FRANCE SPORT", |FR| EUROSPORT 1 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/9549.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 1 FHD BKP" tvg-logo="http://one-iptv.com/logoX/SfrSport/eurosport.png" group-title="FRANCE SPORT", |FR| EUROSPORT 1 FHD BKP
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/51105.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="|FR| EUROSPORT 2" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.fr.png" group-title="FRANCE SPORT", |FR| EUROSPORT 2
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/9279.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="|FR.RP| EUROSPORT 2 HD" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.fr.png" group-title="FRANCE SPORT", |FR.RP| EUROSPORT 2 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/9280.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="|FR| EUROSPORT 2 FHD" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.fr.png" group-title="FRANCE SPORT", |FR| EUROSPORT 2 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/9548.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="|FR| EUROSPORT 2 FHD BKP" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.fr.png" group-title="FRANCE SPORT", |FR| EUROSPORT 2 FHD BKP
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/51106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 1" tvg-logo="" group-title="FRANCE SPORT", |FR| EUROSPORT 360 1
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/139080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 1 HD" tvg-logo="" group-title="FRANCE SPORT", |FR| EUROSPORT 360 1 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/139081.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 1 FHD" tvg-logo="" group-title="FRANCE SPORT", |FR| EUROSPORT 360 1 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/139082.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 2" tvg-logo="" group-title="FRANCE SPORT", |FR| EUROSPORT 360 2
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/139083.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 2 HD" tvg-logo="" group-title="FRANCE SPORT", |FR| EUROSPORT 360 2 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/139084.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 2 FHD" tvg-logo="" group-title="FRANCE SPORT", |FR| EUROSPORT 360 2 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/139085.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 3" tvg-logo="" group-title="FRANCE SPORT", |FR| EUROSPORT 360 3
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/139086.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 3 HD" tvg-logo="" group-title="FRANCE SPORT", |FR| EUROSPORT 360 3 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/139087.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 3 FHD" tvg-logo="" group-title="FRANCE SPORT", |FR| EUROSPORT 360 3 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/139088.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 4" tvg-logo="" group-title="FRANCE SPORT", |FR| EUROSPORT 360 4
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/139089.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 4 HD" tvg-logo="" group-title="FRANCE SPORT", |FR| EUROSPORT 360 4 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/139090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 4 FHD" tvg-logo="" group-title="FRANCE SPORT", |FR| EUROSPORT 360 4 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/139091.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 5" tvg-logo="" group-title="FRANCE SPORT", |FR| EUROSPORT 360 5
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/139092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 5 HD" tvg-logo="" group-title="FRANCE SPORT", |FR| EUROSPORT 360 5 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/139093.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 5 FHD" tvg-logo="" group-title="FRANCE SPORT", |FR| EUROSPORT 360 5 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/139094.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 6" tvg-logo="" group-title="FRANCE SPORT", |FR| EUROSPORT 360 6
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/139095.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 6 HD" tvg-logo="" group-title="FRANCE SPORT", |FR| EUROSPORT 360 6 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/139096.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 6 FHD" tvg-logo="" group-title="FRANCE SPORT", |FR| EUROSPORT 360 6 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/139097.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 7" tvg-logo="" group-title="FRANCE SPORT", |FR| EUROSPORT 360 7
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/139098.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 7 HD" tvg-logo="" group-title="FRANCE SPORT", |FR| EUROSPORT 360 7 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/139099.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 7 FHD" tvg-logo="" group-title="FRANCE SPORT", |FR| EUROSPORT 360 7 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/139100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 8" tvg-logo="" group-title="FRANCE SPORT", |FR| EUROSPORT 360 8
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/139101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 8 HD" tvg-logo="" group-title="FRANCE SPORT", |FR| EUROSPORT 360 8 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/139102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 8 FHD" tvg-logo="" group-title="FRANCE SPORT", |FR| EUROSPORT 360 8 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/139103.m3u8
+#EXTINF:-1 tvg-id="OLTV.fr" tvg-name="|FR| OL TV FHD" tvg-logo="http://one-iptv.com/logoX/SfrSport/oltv.png" group-title="FRANCE SPORT", |FR| OL TV FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/9243.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN PPV HD" tvg-logo="" group-title="FRANCE SPORT", |FR| DAZN PPV HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/303274.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ROLAND GARROS 1 HD ( LIVE EVENT ONLY )" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT", |FR| ROLAND GARROS 1 HD ( LIVE EVENT ONLY )
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/133896.m3u8
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="|FR| TF1+1" tvg-logo="http://one-iptv.com/imageslogo/pu_tf1plus1.png" group-title="FRANCE TNT", |FR| TF1+1
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/51178.m3u8
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="|FR| TF1+1 FHD" tvg-logo="http://one-iptv.com/imageslogo/pu_tf1plus1.png" group-title="FRANCE TNT", |FR| TF1+1 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/51179.m3u8
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="|FR| TF1 SERIES FILMS" tvg-logo="http://one-iptv.com/imageslogo/TF1SeriesFilms.fr.png" group-title="FRANCE TNT", |FR| TF1 SERIES FILMS
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/51148.m3u8
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="|FR.RP| TF1 SERIES FILMS HD" tvg-logo="http://one-iptv.com/imageslogo/TF1SeriesFilms.fr.png" group-title="FRANCE TNT", |FR.RP| TF1 SERIES FILMS HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/51169.m3u8
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="|FR| TF1 SERIES FILMS FHD" tvg-logo="http://one-iptv.com/imageslogo/TF1SeriesFilms.fr.png" group-title="FRANCE TNT", |FR| TF1 SERIES FILMS FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/51172.m3u8
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="|FR| FRANCE 2" tvg-logo="http://one-iptv.com/logoX/francetnt/France2.png" group-title="FRANCE TNT", |FR| FRANCE 2
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/9277.m3u8
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="|FR.RP| FRANCE 2 HD" tvg-logo="http://one-iptv.com/logoX/francetnt/France2.png" group-title="FRANCE TNT", |FR.RP| FRANCE 2 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/15226.m3u8
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="|FR| FRANCE 2 FHD" tvg-logo="http://one-iptv.com/logoX/francetnt/France2.png" group-title="FRANCE TNT", |FR| FRANCE 2 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/9546.m3u8
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="|FR| FRANCE 3" tvg-logo="http://one-iptv.com/logoX/francetnt/France3.png" group-title="FRANCE TNT", |FR| FRANCE 3
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/9276.m3u8
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="|FR.RP| FRANCE 3 HD" tvg-logo="http://one-iptv.com/logoX/francetnt/France3.png" group-title="FRANCE TNT", |FR.RP| FRANCE 3 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/15169.m3u8
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="|FR| FRANCE 3 FHD" tvg-logo="http://one-iptv.com/logoX/francetnt/France3.png" group-title="FRANCE TNT", |FR| FRANCE 3 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/9545.m3u8
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="|FR| FRANCE 4 " tvg-logo="http://one-iptv.com/logoX/francetnt/France4.png" group-title="FRANCE TNT", |FR| FRANCE 4 
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/9274.m3u8
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="|FR.RP| FRANCE 4 HD" tvg-logo="http://one-iptv.com/logoX/francetnt/France4.png" group-title="FRANCE TNT", |FR.RP| FRANCE 4 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/15168.m3u8
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="|FR| FRANCE 4 FHD" tvg-logo="http://one-iptv.com/logoX/francetnt/France4.png" group-title="FRANCE TNT", |FR| FRANCE 4 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/9544.m3u8
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="|FR| FRANCE 4 FHD BKP" tvg-logo="http://one-iptv.com/logoX/francetnt/France4.png" group-title="FRANCE TNT", |FR| FRANCE 4 FHD BKP
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/51176.m3u8
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="|FR| FRANCE 5" tvg-logo="http://one-iptv.com/logoX/francetnt/France5.png" group-title="FRANCE TNT", |FR| FRANCE 5
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/9273.m3u8
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="|FR.RP| FRANCE 5 HD" tvg-logo="http://one-iptv.com/logoX/francetnt/France5.png" group-title="FRANCE TNT", |FR.RP| FRANCE 5 HD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/15167.m3u8
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="|FR| FRANCE 5 FHD" tvg-logo="http://one-iptv.com/logoX/francetnt/France5.png" group-title="FRANCE TNT", |FR| FRANCE 5 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/9543.m3u8
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="|FR| FRANCE 5 FHD" tvg-logo="http://one-iptv.com/logoX/francetnt/France5.png" group-title="FRANCE TNT", |FR| FRANCE 5 FHD
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/51175.m3u8
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="|FR| M6" tvg-logo="http://one-iptv.com/logoX/francetnt/M6.png" group-title="FRANCE TNT", |FR| M6
+http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/9260.m3u8
