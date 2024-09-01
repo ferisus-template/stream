@@ -3,7 +3,7 @@
         
          {
             "name": "Premier League",
-            "url": "https://iptv-org.github.io/iptv/categories/movies.m3u"
+            "url": "https://raw.githubusercontent.com/ferisu-template/stream/main/id/data/league.m3u.m3"
         },
         {
             "name": "Bein AR ",
