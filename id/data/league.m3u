@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3 PREMIUM SD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein3.png" group-title="Bein Sports",AR: BEIN SPORTS 3 PREMIUM SD
+http://252091451939358383.ofse0829.xyz:80/live/te725042/sn6@W8Ws7vyw/358383.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 PREMIUM HD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein1.png" group-title="Bein Sports",AR: BEIN SPORTS 1 PREMIUM HD
 http://252091451939333780.ofse0829.xyz:80/live/te725042/sn6@W8Ws7vyw/333780.m3u8
 
