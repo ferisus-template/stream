@@ -1,5 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 PREMIUM HD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein1.png" group-title="Bein Sports",AR: BEIN SPORTS 1 PREMIUM HD
+http://252091451939333780.ofse0829.xyz:80/live/te725042/sn6@W8Ws7vyw/333780.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2 PREMIUM HD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein2.png" group-title="Bein Sports",AR: BEIN SPORTS 2 PREMIUM HD
+http://252091451939333786.ofse0829.xyz:80/live/te725042/sn6@W8Ws7vyw/333786.m3u8
 
 #EXTINF:-1 tvg-id="BeinSportsPremium1.qa" tvg-name="BEIN SPORTS 1 SD" tvg-logo="https://raw.githubusercontent.com/ferisu-template/stream/main/id/image/beinsport1.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 1 SD
 http://252091451939333781.ofse0829.xyz:80/live/te725042/sn6@W8Ws7vyw/333781.m3u8
