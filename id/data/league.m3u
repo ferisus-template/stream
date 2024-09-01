@@ -11,3 +11,6 @@ http://252091451939333786.ofse0829.xyz:80/live/te725042/sn6@W8Ws7vyw/333786.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2 PREMIUM HEVC" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein2-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 2 PREMIUM HEVC
 http://252091451939333785.ofse0829.xyz:80/live/te725042/sn6@W8Ws7vyw/333785.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2 PREMIUM HD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein2.png" group-title="Bein Sports",AR: BEIN SPORTS 2 PREMIUM HD
+http://252091451939333786.ofse0829.xyz:80/live/te725042/sn6@W8Ws7vyw/333786.m3u8
