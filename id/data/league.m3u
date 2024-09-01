@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 PREMIUM HD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein1.png" group-title="Bein Sports",AR: BEIN SPORTS 1 PREMIUM HD
+http://206.212.244.182:25461/live/Fc58zuVtQ8/4744838371/12554.ts?token=TUEMUBFQFVsUAA0NV1EGUgtdVg0KAlgAW1JSBQ5eV1sDVFUBU1sFUA8WFRdHQxcHWQk6UV0SAwBQBlYCGhpGEFMRO1gGGg1DBAAABQcGR04aEAxVXBIDAFUBVgcPDgJUAE9GQQtcFVsUBwgDBQRHThoBHUxcQldQDmwHU0BRUAYUWQpEDlQbQ1laZlFRWgQMXEZfGgkSFRMLQBMUDFZGD1pPRlMLTEUAQlEbDxYOUVoaSEdbVkVXRRBKQQwUcXdBGkEBSRZdWRJfW1cXDhURERpIR1FKb0tUEUcRU1dVVhEUWUYBQBQVDFdMZlZbWQsHWxAMV1dDGwtABkEaFFVcDV8XC0M9SF4FFA4bBgUCVFcaGQ==
 #EXTINF:-1 tvg-id="BeinSportsPremium1.qa" tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://raw.githubusercontent.com/ferisu-template/stream/main/id/image/beinsport1.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 1 HD
 http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/9146.m3u8
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name=" BEIN SPORTS 1 FHD" tvg-logo="https://raw.githubusercontent.com/ferisu-template/stream/main/id/image/beinsport1.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 1 FHD
