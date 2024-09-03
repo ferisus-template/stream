@@ -1,7 +1,6 @@
 {
     "categories": [
-        
-         {
+        {
             "name": "Premier League",
             "url": "https://raw.githubusercontent.com/ferisu-template/stream/main/id/data/league.m3u"
         },
@@ -29,7 +28,7 @@
             "name": "Movie",
             "url": "https://iptv-org.github.io/iptv/categories/movies.m3u"
         },
-            {
+        {
             "name": "test",
             "url": "http://ad.v166.xyz/get.php?username=jg_02062024&password=02junio2024&type=m3u_plus"
         }
