@@ -1,35 +1,189 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 MAX HEVC" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="Bein Sports",AR: BEIN SPORTS 1 MAX HEVC
+http://813933845217333777.ofse0829.xyz:80/live/Jg_02062024/02junio2024/333777.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 MAX HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="Bein Sports",AR: BEIN SPORTS 1 MAX HD
+http://813933845217333778.ofse0829.xyz:80/live/Jg_02062024/02junio2024/333778.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 PREMIUM HEVC" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein1-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 1 PREMIUM HEVC
+http://813933845217333779.ofse0829.xyz:80/live/Jg_02062024/02junio2024/333779.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 PREMIUM HD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein1.png" group-title="Bein Sports",AR: BEIN SPORTS 1 PREMIUM HD
-http://206.212.244.182:25461/live/Fc58zuVtQ8/4744838371/12554.ts?token=TUEMUBFQFVsUDFxXAQJRBwxUUw1YAlgHUgRQVFJZBQADUFZXVAtSBwIWFRdHQxcHWQk6UV0SAwBQBlYCGhpGEFMRO1gGGg1DBAAABQcGR04aEAxVXBIDAFUBVgQADwdTAk9GQQtcFVsUBwkMBw9HThoBHUxcQldQDmwHU0BRUAYUWQpEDlQbQ1laZlFRWgQMXEZfGgkSFRMLQBMUDFZGD1pPRlMLTEUAQlEbDxYPVFEaSEdbVkVXRRBKQQwUcXdBGkEBSRZdWRJfW1cXDhURERpIR1FKb0tUEUcRU1dVVhEUWUYBQBQVDFdMZlZbWQsHWxAMV1dDGwtABkEaFFVcDV8XC0M9SF4FFA4bBgUCVFcaGQ==
-#EXTINF:-1 tvg-id="BeinSportsPremium1.qa" tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://raw.githubusercontent.com/ferisu-template/stream/main/id/image/beinsport1.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 1 HD
-http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/9146.m3u8
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" BEIN SPORTS 1 FHD" tvg-logo="https://raw.githubusercontent.com/ferisu-template/stream/main/id/image/beinsport1.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 1 FHD
-http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/9147.m3u8
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" BEIN SPORTS 1 FHD HEVC" tvg-logo="https://raw.githubusercontent.com/ferisu-template/stream/main/id/image/beinsport1.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 1 FHD HEVC
-http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/39224.m3u8
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS  2 SD" tvg-logo="https://raw.githubusercontent.com/ferisu-template/stream/main/id/image/beinsport2.png" group-title="BEIN SPORTS MENA", BEIN SPORTS  2 SD
-http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/32007.m3u8
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 2 SD" tvg-logo="https://raw.githubusercontent.com/ferisu-template/stream/main/id/image/beinsport2.png" group-title="BEIN SPORTS MENA", BEIN SPORTS 2 SD
-http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/32014.m3u8
-#EXTINF:-1 tvg-id="BeinSportsPremium2.qa" tvg-name="BEIN SPORTS 2 HD" tvg-logo="https://raw.githubusercontent.com/ferisu-template/stream/main/id/image/beinsport2.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 2 HD
-http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/9148.m3u8
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 2 FHD" tvg-logo="https://raw.githubusercontent.com/ferisu-template/stream/main/id/image/beinsport2.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 2 FHD
-http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/9135.m3u8
-#EXTINF:-1 tvg-id="beINSports2Ar.qa" tvg-name="BEIN SPORTS 2 FHD 4K" tvg-logo="https://raw.githubusercontent.com/ferisu-template/stream/main/id/image/beinsport2.png" group-title="BEIN SPORTS MENA", BEIN SPORTS 2 FHD 4K
-http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/30751.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS  2 FHD 4K" tvg-logo="https://raw.githubusercontent.com/ferisu-template/stream/main/id/image/beinsport2.png" group-title="BEIN SPORTS MENA",BEIN SPORTS  2 FHD 4K
-http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/30757.m3u8
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 2 FHD HEVC" tvg-logo="https://raw.githubusercontent.com/ferisu-template/stream/main/id/image/beinsport2.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 2 FHD HEVC
-http://pro.xviptv.com:25443/live/190JQSKK2JSKS/Hafid83500/39225.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2 PREMIUM SD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein2.png" group-title="Bein Sports",AR: BEIN SPORTS 2 PREMIUM SD
-http://252091451939355981.ofse0829.xyz:80/live/te725042/sn6@W8Ws7vyw/355981.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2 PREMIUM HD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein2.png" group-title="Bein Sports",AR: BEIN SPORTS 2 PREMIUM HD
-http://252091451939333786.ofse0829.xyz:80/live/te725042/sn6@W8Ws7vyw/333786.m3u8
-
+http://813933845217333780.ofse0829.xyz:80/live/Jg_02062024/02junio2024/333780.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 SD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein1.png" group-title="Bein Sports",AR: BEIN SPORTS 1 SD
+http://813933845217333781.ofse0829.xyz:80/live/Jg_02062024/02junio2024/333781.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 HD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein1.png" group-title="Bein Sports",AR: BEIN SPORTS 1 HD
+http://813933845217333782.ofse0829.xyz:80/live/Jg_02062024/02junio2024/333782.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2 MAX HEVC" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="Bein Sports",AR: BEIN SPORTS 2 MAX HEVC
+http://813933845217333783.ofse0829.xyz:80/live/Jg_02062024/02junio2024/333783.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2 MAX HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="Bein Sports",AR: BEIN SPORTS 2 MAX HD
+http://813933845217333784.ofse0829.xyz:80/live/Jg_02062024/02junio2024/333784.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2 PREMIUM HEVC" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein2-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 2 PREMIUM HEVC
-http://252091451939333785.ofse0829.xyz:80/live/te725042/sn6@W8Ws7vyw/333785.m3u8
-
+http://813933845217333785.ofse0829.xyz:80/live/Jg_02062024/02junio2024/333785.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2 PREMIUM HD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein2.png" group-title="Bein Sports",AR: BEIN SPORTS 2 PREMIUM HD
-http://252091451939333786.ofse0829.xyz:80/live/te725042/sn6@W8Ws7vyw/333786.m3u8
+http://813933845217333786.ofse0829.xyz:80/live/Jg_02062024/02junio2024/333786.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2 HD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein2.png" group-title="Bein Sports",AR: BEIN SPORTS 2 HD
+http://813933845217333787.ofse0829.xyz:80/live/Jg_02062024/02junio2024/333787.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3 MAX HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F652%2Fbein-sports-max-1.png" group-title="Bein Sports",AR: BEIN SPORTS 3 MAX HD
+http://813933845217333789.ofse0829.xyz:80/live/Jg_02062024/02junio2024/333789.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3 PREMIUM HEVC" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein3-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 3 PREMIUM HEVC
+http://813933845217333791.ofse0829.xyz:80/live/Jg_02062024/02junio2024/333791.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3 PREMIUM HD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein3.png" group-title="Bein Sports",AR: BEIN SPORTS 3 PREMIUM HD
+http://813933845217333792.ofse0829.xyz:80/live/Jg_02062024/02junio2024/333792.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3 HD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein3.png" group-title="Bein Sports",AR: BEIN SPORTS 3 HD
+http://813933845217333793.ofse0829.xyz:80/live/Jg_02062024/02junio2024/333793.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 4 MAX HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F655%2Fbein-sports-max-1.png" group-title="Bein Sports",AR: BEIN SPORTS 4 MAX HD
+http://813933845217333795.ofse0829.xyz:80/live/Jg_02062024/02junio2024/333795.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 4 FHD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein4.png" group-title="Bein Sports",AR: BEIN SPORTS 4 FHD
+http://813933845217333797.ofse0829.xyz:80/live/Jg_02062024/02junio2024/333797.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 4 HD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein4-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 4 HD
+http://813933845217333798.ofse0829.xyz:80/live/Jg_02062024/02junio2024/333798.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 5 MAX HEVC" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png" group-title="Bein Sports",AR: BEIN SPORTS 5 MAX HEVC
+http://813933845217333799.ofse0829.xyz:80/live/Jg_02062024/02junio2024/333799.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 5 MAX HD" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png" group-title="Bein Sports",AR: BEIN SPORTS 5 MAX HD
+http://813933845217333800.ofse0829.xyz:80/live/Jg_02062024/02junio2024/333800.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 5 FHD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein5.png" group-title="Bein Sports",AR: BEIN SPORTS 5 FHD
+http://813933845217333801.ofse0829.xyz:80/live/Jg_02062024/02junio2024/333801.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 5 HD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein5.png" group-title="Bein Sports",AR: BEIN SPORTS 5 HD
+http://813933845217333802.ofse0829.xyz:80/live/Jg_02062024/02junio2024/333802.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 6 MAX HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F917%2Fbein-sports-hd-1.png" group-title="Bein Sports",AR: BEIN SPORTS 6 MAX HD
+http://813933845217333803.ofse0829.xyz:80/live/Jg_02062024/02junio2024/333803.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 6 HD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein6-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 6 HD
+http://813933845217333805.ofse0829.xyz:80/live/Jg_02062024/02junio2024/333805.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 7 HD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein7.png" group-title="Bein Sports",AR: BEIN SPORTS 7 HD
+http://813933845217333807.ofse0829.xyz:80/live/Jg_02062024/02junio2024/333807.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENGLISH 1 HD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein11-4k.png" group-title="Bein Sports",AR: BEIN SPORTS ENGLISH 1 HD
+http://813933845217333809.ofse0829.xyz:80/live/Jg_02062024/02junio2024/333809.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENGLISH 2 FHD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein12-4k.png" group-title="Bein Sports",AR: BEIN SPORTS ENGLISH 2 FHD
+http://813933845217333810.ofse0829.xyz:80/live/Jg_02062024/02junio2024/333810.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENGLISH 2 HD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein12-4k.png" group-title="Bein Sports",AR: BEIN SPORTS ENGLISH 2 HD
+http://813933845217333811.ofse0829.xyz:80/live/Jg_02062024/02junio2024/333811.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENGLISH 3 HEVC" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein13-4k.png" group-title="Bein Sports",AR: BEIN SPORTS ENGLISH 3 HEVC
+http://813933845217333812.ofse0829.xyz:80/live/Jg_02062024/02junio2024/333812.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS NEWS FHD" tvg-logo="https://i.pinimg.com/originals/3f/98/fb/3f98fb185d4dc43e090f71b5761e87f9.png" group-title="Bein Sports",AR: BEIN SPORTS NEWS FHD
+http://813933845217333813.ofse0829.xyz:80/live/Jg_02062024/02junio2024/333813.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS NEWS HD" tvg-logo="https://i.pinimg.com/originals/3f/98/fb/3f98fb185d4dc43e090f71b5761e87f9.png" group-title="Bein Sports",AR: BEIN SPORTS NEWS HD
+http://813933845217333814.ofse0829.xyz:80/live/Jg_02062024/02junio2024/333814.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS XTRA 1 FHD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F895%2Fbein-sports-xtra-1.png" group-title="Bein Sports",AR: BEIN SPORTS XTRA 1 FHD
+http://813933845217333815.ofse0829.xyz:80/live/Jg_02062024/02junio2024/333815.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS XTRA 2 FHD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F896%2Fbein-sports-xtra-1.png" group-title="Bein Sports",AR: BEIN SPORTS XTRA 2 FHD
+http://813933845217333816.ofse0829.xyz:80/live/Jg_02062024/02junio2024/333816.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALKASS EXTRA 1 HEVC" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/Alkass_X1.png" group-title="Bein Sports",AR: ALKASS EXTRA 1 HEVC
+http://813933845217338232.ofse0829.xyz:80/live/Jg_02062024/02junio2024/338232.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALKASS EXTRA 2 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/Alkass_X2.png" group-title="Bein Sports",AR: ALKASS EXTRA 2 HD
+http://813933845217338233.ofse0829.xyz:80/live/Jg_02062024/02junio2024/338233.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS HD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein.png" group-title="Bein Sports",AR: BEIN SPORTS HD
+http://813933845217338234.ofse0829.xyz:80/live/Jg_02062024/02junio2024/338234.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALKASS EXTRA 2 HEVC" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/Alkass_X2.png" group-title="Bein Sports",AR: ALKASS EXTRA 2 HEVC
+http://813933845217339572.ofse0829.xyz:80/live/Jg_02062024/02junio2024/339572.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 MAX FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="Bein Sports",AR: BEIN SPORTS 1 MAX FHD
+http://813933845217339573.ofse0829.xyz:80/live/Jg_02062024/02junio2024/339573.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 FHD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein1.png" group-title="Bein Sports",AR: BEIN SPORTS 1 FHD
+http://813933845217339574.ofse0829.xyz:80/live/Jg_02062024/02junio2024/339574.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3 MAX HEVC" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F652%2Fbein-sports-max-1.png" group-title="Bein Sports",AR: BEIN SPORTS 3 MAX HEVC
+http://813933845217339575.ofse0829.xyz:80/live/Jg_02062024/02junio2024/339575.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 4 MAX HEVC" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F655%2Fbein-sports-max-1.png" group-title="Bein Sports",AR: BEIN SPORTS 4 MAX HEVC
+http://813933845217339576.ofse0829.xyz:80/live/Jg_02062024/02junio2024/339576.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 4 HEVC" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein4.png" group-title="Bein Sports",AR: BEIN SPORTS 4 HEVC
+http://813933845217339577.ofse0829.xyz:80/live/Jg_02062024/02junio2024/339577.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 5 MAX FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png" group-title="Bein Sports",AR: BEIN SPORTS 5 MAX FHD
+http://813933845217339578.ofse0829.xyz:80/live/Jg_02062024/02junio2024/339578.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 6 MAX HEVC" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F917%2Fbein-sports-hd-1.png" group-title="Bein Sports",AR: BEIN SPORTS 6 MAX HEVC
+http://813933845217339579.ofse0829.xyz:80/live/Jg_02062024/02junio2024/339579.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 7 FHD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein7-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 7 FHD
+http://813933845217339580.ofse0829.xyz:80/live/Jg_02062024/02junio2024/339580.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENGLISH 3 FHD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein13-4k.png" group-title="Bein Sports",AR: BEIN SPORTS ENGLISH 3 FHD
+http://813933845217339581.ofse0829.xyz:80/live/Jg_02062024/02junio2024/339581.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2 PREMIUM FHD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein2-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 2 PREMIUM FHD
+http://813933845217342215.ofse0829.xyz:80/live/Jg_02062024/02junio2024/342215.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENGLISH 1 FHD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein11-4k.png" group-title="Bein Sports",AR: BEIN SPORTS ENGLISH 1 FHD
+http://813933845217342216.ofse0829.xyz:80/live/Jg_02062024/02junio2024/342216.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENGLISH 3 HD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein13-4k.png" group-title="Bein Sports",AR: BEIN SPORTS ENGLISH 3 HD
+http://813933845217343068.ofse0829.xyz:80/live/Jg_02062024/02junio2024/343068.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3 PREMIUM FHD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein3-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 3 PREMIUM FHD
+http://813933845217343322.ofse0829.xyz:80/live/Jg_02062024/02junio2024/343322.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENGLISH 1 SD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein11-4k.png" group-title="Bein Sports",AR: BEIN SPORTS ENGLISH 1 SD
+http://813933845217343323.ofse0829.xyz:80/live/Jg_02062024/02junio2024/343323.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3 FHD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein3.png" group-title="Bein Sports",AR: BEIN SPORTS 3 FHD
+http://813933845217344206.ofse0829.xyz:80/live/Jg_02062024/02junio2024/344206.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 7 HEVC" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein7-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 7 HEVC
+http://813933845217344207.ofse0829.xyz:80/live/Jg_02062024/02junio2024/344207.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 7 SD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein7-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 7 SD
+http://813933845217344208.ofse0829.xyz:80/live/Jg_02062024/02junio2024/344208.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 PREMIUM FHD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein1-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 1 PREMIUM FHD
+http://813933845217344869.ofse0829.xyz:80/live/Jg_02062024/02junio2024/344869.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 MAX SD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="Bein Sports",AR: BEIN SPORTS 1 MAX SD
+http://813933845217347191.ofse0829.xyz:80/live/Jg_02062024/02junio2024/347191.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2 FHD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein2.png" group-title="Bein Sports",AR: BEIN SPORTS 2 FHD
+http://813933845217347192.ofse0829.xyz:80/live/Jg_02062024/02junio2024/347192.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 6 MAX FHD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F917%2Fbein-sports-hd-1.png" group-title="Bein Sports",AR: BEIN SPORTS 6 MAX FHD
+http://813933845217347193.ofse0829.xyz:80/live/Jg_02062024/02junio2024/347193.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2 MAX FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="Bein Sports",AR: BEIN SPORTS 2 MAX FHD
+http://813933845217348215.ofse0829.xyz:80/live/Jg_02062024/02junio2024/348215.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 6 FHD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein6.png" group-title="Bein Sports",AR: BEIN SPORTS 6 FHD
+http://813933845217348216.ofse0829.xyz:80/live/Jg_02062024/02junio2024/348216.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 PREMIUM SD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein1.png" group-title="Bein Sports",AR: BEIN SPORTS 1 PREMIUM SD
+http://813933845217350623.ofse0829.xyz:80/live/Jg_02062024/02junio2024/350623.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3 HEVC" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein3-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 3 HEVC
+http://813933845217350624.ofse0829.xyz:80/live/Jg_02062024/02junio2024/350624.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS XTRA 1 HEVC" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F895%2Fbein-sports-xtra-1.png" group-title="Bein Sports",AR: BEIN SPORTS XTRA 1 HEVC
+http://813933845217351482.ofse0829.xyz:80/live/Jg_02062024/02junio2024/351482.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 6 SD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein6-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 6 SD
+http://813933845217352783.ofse0829.xyz:80/live/Jg_02062024/02junio2024/352783.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENGLISH 1 HEVC" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein11-4k.png" group-title="Bein Sports",AR: BEIN SPORTS ENGLISH 1 HEVC
+http://813933845217352784.ofse0829.xyz:80/live/Jg_02062024/02junio2024/352784.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2 PREMIUM SD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein2.png" group-title="Bein Sports",AR: BEIN SPORTS 2 PREMIUM SD
+http://813933845217355981.ofse0829.xyz:80/live/Jg_02062024/02junio2024/355981.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 6 HEVC" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein6-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 6 HEVC
+http://813933845217355982.ofse0829.xyz:80/live/Jg_02062024/02junio2024/355982.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3 PREMIUM SD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein3.png" group-title="Bein Sports",AR: BEIN SPORTS 3 PREMIUM SD
+http://813933845217358383.ofse0829.xyz:80/live/Jg_02062024/02junio2024/358383.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS XTRA 2 HEVC" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F896%2Fbein-sports-xtra-1.png" group-title="Bein Sports",AR: BEIN SPORTS XTRA 2 HEVC
+http://813933845217359260.ofse0829.xyz:80/live/Jg_02062024/02junio2024/359260.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2 SD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein5.png" group-title="Bein Sports",AR: BEIN SPORTS 2 SD
+http://813933845217364445.ofse0829.xyz:80/live/Jg_02062024/02junio2024/364445.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENGLISH 2 SD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein12-4k.png" group-title="Bein Sports",AR: BEIN SPORTS ENGLISH 2 SD
+http://813933845217366371.ofse0829.xyz:80/live/Jg_02062024/02junio2024/366371.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 5 SD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein5.png" group-title="Bein Sports",AR: BEIN SPORTS 5 SD
+http://813933845217369951.ofse0829.xyz:80/live/Jg_02062024/02junio2024/369951.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENGLISH 3 SD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein13-4k.png" group-title="Bein Sports",AR: BEIN SPORTS ENGLISH 3 SD
+http://813933845217373303.ofse0829.xyz:80/live/Jg_02062024/02junio2024/373303.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 HEVC" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein1-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 1 HEVC
+http://813933845217388106.ofse0829.xyz:80/live/Jg_02062024/02junio2024/388106.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 4 SD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein4.png" group-title="Bein Sports",AR: BEIN SPORTS 4 SD
+http://813933845217388107.ofse0829.xyz:80/live/Jg_02062024/02junio2024/388107.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS XTRA 2 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F896%2Fbein-sports-xtra-1.png" group-title="Bein Sports",AR: BEIN SPORTS XTRA 2 HD
+http://813933845217407379.ofse0829.xyz:80/live/Jg_02062024/02junio2024/407379.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3 SD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein3.png" group-title="Bein Sports",AR: BEIN SPORTS 3 SD
+http://813933845217409133.ofse0829.xyz:80/live/Jg_02062024/02junio2024/409133.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENGLISH 2 HEVC" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein12-4k.png" group-title="Bein Sports",AR: BEIN SPORTS ENGLISH 2 HEVC
+http://813933845217413783.ofse0829.xyz:80/live/Jg_02062024/02junio2024/413783.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS NEWS SD" tvg-logo="https://i.pinimg.com/originals/3f/98/fb/3f98fb185d4dc43e090f71b5761e87f9.png" group-title="Bein Sports",AR: BEIN SPORTS NEWS SD
+http://813933845217424329.ofse0829.xyz:80/live/Jg_02062024/02junio2024/424329.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 5 HEVC" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein5-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 5 HEVC
+http://813933845217458388.ofse0829.xyz:80/live/Jg_02062024/02junio2024/458388.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS NEWS HEVC" tvg-logo="https://i.pinimg.com/originals/3f/98/fb/3f98fb185d4dc43e090f71b5761e87f9.png" group-title="Bein Sports",AR: BEIN SPORTS NEWS HEVC
+http://813933845217461231.ofse0829.xyz:80/live/Jg_02062024/02junio2024/461231.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS XTRA 1 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F895%2Fbein-sports-xtra-1.png" group-title="Bein Sports",AR: BEIN SPORTS XTRA 1 HD
+http://813933845217491214.ofse0829.xyz:80/live/Jg_02062024/02junio2024/491214.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 8 HD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein8-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 8 HD
+http://813933845217620429.ofse0829.xyz:80/live/Jg_02062024/02junio2024/620429.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 9 FHD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein9-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 9 FHD
+http://813933845217620430.ofse0829.xyz:80/live/Jg_02062024/02junio2024/620430.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 8 HEVC" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein8-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 8 HEVC
+http://813933845217621880.ofse0829.xyz:80/live/Jg_02062024/02junio2024/621880.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 9 HD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein9-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 9 HD
+http://813933845217621881.ofse0829.xyz:80/live/Jg_02062024/02junio2024/621881.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 9 HEVC" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein9-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 9 HEVC
+http://813933845217623616.ofse0829.xyz:80/live/Jg_02062024/02junio2024/623616.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 8 FHD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein8-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 8 FHD
+http://813933845217625329.ofse0829.xyz:80/live/Jg_02062024/02junio2024/625329.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2 HEVC" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein2-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 2 HEVC
+http://813933845217706154.ofse0829.xyz:80/live/Jg_02062024/02junio2024/706154.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 8 SD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein8-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 8 SD
+http://813933845217738359.ofse0829.xyz:80/live/Jg_02062024/02junio2024/738359.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 1 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="Bein Sports",AR: BEIN SPORTS MAX 1 FHD
+http://813933845217748220.ofse0829.xyz:80/live/Jg_02062024/02junio2024/748220.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 2 FHD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F653%2Fbein-sports-max-1.png" group-title="Bein Sports",AR: BEIN SPORTS MAX 2 FHD
+http://813933845217748221.ofse0829.xyz:80/live/Jg_02062024/02junio2024/748221.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 3 FHD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F652%2Fbein-sports-max-1.png" group-title="Bein Sports",AR: BEIN SPORTS MAX 3 FHD
+http://813933845217748222.ofse0829.xyz:80/live/Jg_02062024/02junio2024/748222.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 4 FHD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F655%2Fbein-sports-max-1.png" group-title="Bein Sports",AR: BEIN SPORTS MAX 4 FHD
+http://813933845217748223.ofse0829.xyz:80/live/Jg_02062024/02junio2024/748223.ts
