@@ -30,7 +30,7 @@
             "url": "https://iptv-org.github.io/iptv/categories/movies.m3u"
         },
             {
-            "name": "test"
+            "name": "test",
             "url": "http://ad.v166.xyz/get.php?username=jg_02062024&password=02junio2024&type=m3u_plus"
         }
     ]
