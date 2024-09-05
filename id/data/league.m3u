@@ -187,3 +187,6 @@ http://813933845217748221.ofse0829.xyz:80/live/Jg_02062024/02junio2024/748221.ts
 http://813933845217748222.ofse0829.xyz:80/live/Jg_02062024/02junio2024/748222.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 4 FHD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F655%2Fbein-sports-max-1.png" group-title="Bein Sports",AR: BEIN SPORTS MAX 4 FHD
 http://813933845217748223.ofse0829.xyz:80/live/Jg_02062024/02junio2024/748223.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="9 Balas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNaLkaWYN5eeNwnxHnhGgQPr2aT.jpg" group-title=" VOD ESPAÑOL 2022 Plus",9 Balas (2022)
+http://756139745355505128.ofse0829.xyz:80/movie/Jg_02062024/02junio2024/505128.mkv
